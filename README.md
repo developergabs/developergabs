@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gabriel and I'm a Java Developer</p>
+<p align="left">My name is Gabriel and I'm a FullStack Developer</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning SpringBoot<br>🎯 Goals: Becoming a great BackEnd Dev<br>🎲 Fun fact: I love to develop APIs for fun</p>
+<p align="left">✨ Building projects since 2023<br>📚 Developing backend using Java and frontend using React<br>🎲 Taking care since the arquitecture to the final project</p>
 
 ###
 
@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
